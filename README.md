@@ -1,7 +1,7 @@
 # Description
 This is a classic Snake game , designed with all its classic features including score board
 
-##Images
+## Images
 
 ![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot.png)
 
