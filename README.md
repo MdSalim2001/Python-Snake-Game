@@ -3,11 +3,11 @@ This is a classic Snake game , designed with all its classic features including 
 
 ##Images
 
-![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot (3).png)
+![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot.png)
 
-![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot (4).png)
+![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot2.png)
 
-![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot (5).png)
+![ScreenShot](https://raw.githubusercontent.com/MdSalim2001/Python-Snake-Game/master/screenshots/Screenshot3.png)
 
 
 ## Technology Used 
