@@ -1,5 +1,5 @@
 # Description
-This is a classic Snake game , designed with all its classic features including score board
+This is a classic Snake game , designed with all it's classic features including score board
 
 ## Images
 
